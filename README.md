@@ -25,7 +25,8 @@ THIS REPOSITORY FILE MAKE TOOLS AVAILABLE
 
 </p>
 
-![20200808_160757](https://github.com/Sagor-BCZ/TAMP-MAIL/blob/main/Screenshot_20221210-233529_Termux.jpg)
+![20200808_160757](https://github.com/Sagor-BCZ/OLD/blob/main/Screenshot_20221211-171653_Termux.jpg)
+![20200808_160757](https://github.com/Sagor-BCZ/OLD/blob/main/Screenshot_20221211-170627_Termux.jpg)
 
 ## <b>Installation On Termux</b>
 
